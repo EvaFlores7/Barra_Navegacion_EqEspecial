@@ -1,0 +1,15 @@
+
+      .navbar-nav .nav-link {
+          color: #fff;
+          margin-right: 15px;
+      }
+      .navbar-nav .nav-link.active {
+          border-bottom: 2px solid #17a2b8; 
+      }
+      /* Centrar el formulario de inicio de sesión */
+      .login-container {
+          min-height: 100vh;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+      }
